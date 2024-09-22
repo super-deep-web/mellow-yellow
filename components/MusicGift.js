@@ -4,7 +4,7 @@ import { Youtube } from 'lucide-react';
 const MusicGift = () => {
     const openYouTubeLink = () => {
         // Reemplaza 'VIDEO_ID' con el ID real del video de YouTube
-        window.open('https://www.youtube.com/watch?v=VIDEO_ID', '_blank', 'noopener,noreferrer');
+        window.open('https://www.youtube.com/watch?v=Iq-YwZI6Mb4', '_blank', 'noopener,noreferrer');
     };
 
     return (
